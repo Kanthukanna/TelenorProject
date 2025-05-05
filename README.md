@@ -17,7 +17,7 @@
 2. Accepts cookies.
 3. Navigates to the "Bredband" (Broadband) section using the menu.
 4. Searches for a specific address.
-5. Randomly selects an apartment from the dropdown (if any).
+5. Randomly selects an apartment from the dropdown.
 6. Checks if "Bredband via 5G" and "Bredband 500" are shown on the page.
 
 ## Project Structure
